@@ -1,7 +1,7 @@
 <template>
     <div>
-        <h1><b>Colin Julius Emmanuel</b></h1>
-        <h2><b>From Dar es Salaam to New York City</b></h2>
+        <h1><b><center>Colin J. Emmanuel</center></b></h1>
+        <h2><b><center>From Dar es Salaam to New York City</center></b></h2>
 		<!--<p> Follow me on Instagram </p> -->
         
 		<!--<a href="https://www.instagram.com/ej_.colin/" target="_blank">
@@ -23,6 +23,17 @@
 </template>
 
 <style>
+    
+    body {
+        font-family: 'Work Sans' , sans-serif;
+        font-weight: 300;
+
+    }
+
+    #mainpagetext {
+        font-family: 'Times New Roman', Times, serif;
+    }
+    
     #homepic {
         margin: auto;
         display: block;
