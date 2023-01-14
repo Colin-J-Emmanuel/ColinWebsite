@@ -27,7 +27,7 @@
     body {
         font-family: 'Work Sans' , sans-serif;
         font-weight: 300;
-
+        background-image: url(../static/Multicolor.png) 
     }
 
     #mainpagetext {
